@@ -10,8 +10,6 @@
   <a href="https://github.com/silvacleanne">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=silvacleanne&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvacleanne&layout=compact&langs_count=7&theme=great-gatsby"/>
-      
-  </a>
 </div>
  
   <br>
@@ -34,6 +32,6 @@
 </div>
 </div><div align="center">
   
-  ![Snake animation](https://github.com/silvacleanne/silvacleanne/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/silvacleanne/silvacleannne/blob/output/github-contribution-grid-snake.svg)
   
 </div>
