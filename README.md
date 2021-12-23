@@ -6,11 +6,7 @@
 - 🌱 Atualmente estou aprendendo Python e Flutter 
 - 📫 Como chegar até mim: cleannecassiano@gmail.com
 
-<div>
-  <a href="https://github.com/silvacleanne">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=silvacleanne&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvacleanne&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+
  
   <br>
   <div  align="center"> 
@@ -30,8 +26,4 @@
 <a href="https://www.linkedin.com/in/linkedin.com/in/cleanne-silva-74a3121b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      
 </div>
-</div><div align="center">
-  
-  ![Snake animation](https://github.com/silvacleanne/silvacleannne/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
