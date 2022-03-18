@@ -32,7 +32,7 @@
   
 <div align="center">
   
-  (https://github.com/silvacleanne/silvacleanne/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/silvacleanne/silvacleanne/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
