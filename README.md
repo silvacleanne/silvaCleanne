@@ -20,10 +20,11 @@
   <img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-</div><br>
-<img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascrip/javascrip-plain.svg">
+  <img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascrip/javascrip-plain.svg">
 <img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">
 <img align="center" alt="Cleanne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-plain.svg">
+</div><br>
+
   
   ##
   
