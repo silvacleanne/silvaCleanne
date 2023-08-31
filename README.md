@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente, estou trabalhando no TRE
+- 🔭 
 - 🌱 Atualmente estou aprendendo Python e Flutter 
 - 📫 Como chegar até mim: cleannecassiano@gmail.com
 
