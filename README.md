@@ -3,7 +3,7 @@
 
 
 - 🔭 
-- 🌱 Atualmente estou aprendendo Python e Flutter 
+- 🌱 Atualmente estou aprendendo HTML, CSS e testes automatizado em backend utilizando a ferramenta Jmeter
 - 📫 Como chegar até mim: cleannecassiano@gmail.com
 
 
