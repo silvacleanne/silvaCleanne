@@ -59,6 +59,6 @@
 
 ### 🐍 Cobrinha comendo meus commits
 
-![Snake animation](https://github.com/silvacleanne/silvacleanne/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/silvaCleanne/silvaCleanne/blob/output/github-contribution-grid-snake.svg)
 
 ---
